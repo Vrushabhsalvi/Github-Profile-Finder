@@ -3,7 +3,7 @@
 A responsive web application that allows users to search and view GitHub user profiles in real time using the GitHub REST API.
 
 🔗 **Live Demo:**  
-https://vrushabhsalvi.github.io/Github-finder/
+https://vrushabhsalvi.github.io/Github-Profile-Finder/
 
 ---
 
