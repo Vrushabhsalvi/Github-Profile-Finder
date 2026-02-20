@@ -57,9 +57,6 @@ Github-finder/
 
 ## 📸 Screenshots
 
-*(Optional: Add screenshots of your app here after uploading to the repo)*
-
-Example:
 
 ---
 
