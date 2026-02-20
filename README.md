@@ -58,6 +58,8 @@ Github-finder/
 ## 📸 Screenshots
 
 
+![Screenshot_20-2-2026_201617_vrushabhsalvi github io](https://github.com/user-attachments/assets/d416941d-c9bf-4148-9489-5ddfcbd0ada9)
+
 ---
 
 ## 📬 Contact
