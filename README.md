@@ -57,6 +57,9 @@ Github-finder/
 
 ## 📸 Screenshots
 
+![Screenshot_20-2-2026_201544_vrushabhsalvi github io](https://github.com/user-attachments/assets/a059b20e-494b-48cc-a569-c3edbd928703)
+
+
 
 ![Screenshot_20-2-2026_201617_vrushabhsalvi github io](https://github.com/user-attachments/assets/d416941d-c9bf-4148-9489-5ddfcbd0ada9)
 
